@@ -2,7 +2,8 @@ Using System;
 
 Class Program
 {
- public static void Main
+ public static void Main()
  {
+   Console.WriteLine("uye");
  } 
 } 
